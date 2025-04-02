@@ -6,7 +6,7 @@ This project is a front-end assessment task for the front-end engineer (Intern) 
 
 🔗 Live Demo
 
-Project Live Link
+[Project Live Link](https://aurnabdas-assesment-04.netlify.app/)
 
 📌 Tech Stack
 
