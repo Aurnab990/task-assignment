@@ -1,8 +1,19 @@
-# React + Vite
+Frontend Engineer (Intern) Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Project Overview
 
-Currently, two official plugins are available:
+This project is a front-end assessment task for the front-end engineer (Intern) position. It aims to replicate a given user interface design using React.js and Tailwind CSS, following best practices for component structure, styling, and interactivity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo
+
+Project Live Link
+
+📌 Tech Stack
+
+Framework: React.js
+
+Styling: Tailwind CSS
+
+Icons & UI Enhancements: (if used) React Icons, Headless UI, etc.
+
+Deployment: Netlify
